@@ -1,7 +1,7 @@
 # Личный проект «Кексобукинг»
 
 * Студент: [Михаил Рахматуллин](https://up.htmlacademy.ru/javascript/26/user/2109777).
-* Наставник: [Николай Усов] (https://htmlacademy.ru/profile/id1493681).
+* Наставник: [Николай Усов](https://htmlacademy.ru/profile/id1493681).
 
 ---
 
